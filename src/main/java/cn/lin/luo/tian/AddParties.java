@@ -19,6 +19,9 @@ import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
 
+/**
+/ foolish
+/**
 public class AddParties {
     private static final String GET_PARTY_BY_MEI_URL = "http://nj4mcldvapp003.markit.partners:5083/dcl/MarkitClear.getPartyListByPartyMeiNamePrefix";
     private static final String ADD_PARTY_URL        = "http://nj4mcldvapp003.markit.partners:5083/dcl/MarkitClear.saveParty";
